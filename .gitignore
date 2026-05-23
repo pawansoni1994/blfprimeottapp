@@ -1,0 +1,7 @@
+
+.dart_tool/
+build/
+.idea/
+android/.gitignore
+android/app/.cxx/
+android/.kotlin/
