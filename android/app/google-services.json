@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932007223008",
+    "project_id": "blf-prime-f1d5b",
+    "storage_bucket": "blf-prime-f1d5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932007223008:android:6da5033da14184242f3a85",
+        "android_client_info": {
+          "package_name": "com.blf.prime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3pEHQjKWIKBuA_E0ZqLQ4A_RpbH0T2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932007223008:android:9632ed97b30b70b52f3a85",
+        "android_client_info": {
+          "package_name": "com.blf.prime.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3pEHQjKWIKBuA_E0ZqLQ4A_RpbH0T2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
